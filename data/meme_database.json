@@ -24,5 +24,21 @@
         "protecc": 20,
         "attacc": 80,
         "speed": 10
+    },
+    {
+        "name": "Heavy Berd",
+        "image": "https://i1.sndcdn.com/artworks-000217837981-ew31ww-t500x500.jpg",
+        "health": 300,
+        "protecc": 50,
+        "attacc": 20,
+        "speed": 5
+    },
+    {
+        "name": "The Inventor",
+        "image": "https://pbs.twimg.com/profile_images/92888926/doof2_400x400.jpg",
+        "health": 145,
+        "protecc": 20,
+        "attacc": 75,
+        "speed": 30
     }
 ]
