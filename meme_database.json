@@ -1,0 +1,15 @@
+"memes":
+[
+    {
+        "name": "Meme 1",
+        "health": 100,
+        "attacc": 50,
+        "protecc": 50
+    },
+    {
+        "name": "Meme 2",
+        "health": 100,
+        "attacc": 50,
+        "protecc": 50
+    }
+]
