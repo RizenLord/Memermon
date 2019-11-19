@@ -7,10 +7,10 @@
         "protecc": 50,
         "attacc": 50,
         "speed": 25,
-        "devolves_into": "Nay thee"
+        "devolves_into": "Nay Thee"
     },
     {
-        "name": "Nay thee",
+        "name": "Nay Thee",
         "image": "https://image.shutterstock.com/image-photo/knight-sword-shield-600w-762608260.jpg",
         "health": 150,
         "protecc": 60,
@@ -40,5 +40,22 @@
         "protecc": 20,
         "attacc": 75,
         "speed": 30
+    },
+    {
+        "name": "Bruh Moment",
+        "image": "https://pbs.twimg.com/profile_images/1146020580136771585/ZyqjoG3b_400x400.jpg",
+        "health": 125,
+        "protecc": 10,
+        "attacc": 50,
+        "speed": 30,
+        "devolves_into": "Vibe Check"
+    },
+    {
+        "name": "Vibe Check",
+        "image": "https://pbs.twimg.com/profile_images/1162710956218245120/L4b1guuv.jpg",
+        "health": 200,
+        "protecc": 30,
+        "attacc": 65,
+        "speed": 20,
     }
 ]
