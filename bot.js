@@ -1,5 +1,6 @@
-const Discord = require("discord.js");
-const client = new Discord.Client();
+const discord = require("discord.js");
+const client = new discord.Client();
+
 const config = require("./data/config.json");
 
 client.once('ready', () =>
