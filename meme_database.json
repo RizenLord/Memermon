@@ -2,7 +2,7 @@
 [
     {
         "name": "No u",
-        "image": "https://www.pinkpetro.com/wp-content/uploads/2019/01/Signs_We_Dont_Read_No_U_Turn.png"
+        "image": "https://www.pinkpetro.com/wp-content/uploads/2019/01/Signs_We_Dont_Read_No_U_Turn.png",
         "health": 100,
         "protecc": 50,
         "attacc": 50,
@@ -11,7 +11,7 @@
     },
     {
         "name": "Nay thee",
-        "image": "https://image.shutterstock.com/image-photo/knight-sword-shield-600w-762608260.jpg"
+        "image": "https://image.shutterstock.com/image-photo/knight-sword-shield-600w-762608260.jpg",
         "health": 150,
         "protecc": 60,
         "attacc": 75,
