@@ -16,5 +16,13 @@
         "protecc": 60,
         "attacc": 75,
         "speed": 35
+    },
+    {
+        "name": "SpongeGar",
+        "image": "https://files.gamebanana.com/img/ico/sprays/574ce98cc2fe0.png",
+        "health": 125,
+        "protecc": 20,
+        "attacc": 80,
+        "speed": 10
     }
 ]
