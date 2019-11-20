@@ -15,6 +15,7 @@ I would like to add `<INSERT MEME NAME HERE>` to the meme_database.json.
   "health": 100,
   "protecc": 50,
   "attacc": 50,
+  "speed": 25,
   "devolves_into": "Another epic meme"
 }
 ```
