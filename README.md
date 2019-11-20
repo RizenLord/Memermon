@@ -10,6 +10,7 @@ Memes are composed of a single JSON object, like so:
   "health": 100,
   "protecc": 50,
   "attacc": 50,
+  "speed": 25,
   "devolves_into": "Another epic meme"
 }
 ```
