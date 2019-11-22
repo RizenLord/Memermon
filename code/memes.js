@@ -13,7 +13,7 @@ module.exports.execute = function(message, args, client, save)
     var index = 1;
     tools.getplayer(message, save).memes.forEach(meme =>
     {
-        embed.addField("#" + index + " " + meme.name + " (" + meme.xp + "/100 xp)", meme.health + "/" + meme.maxhealth + " hp, " + meme.attacc + " attacc, " + meme.protecc + " protecc, " + meme.speed + " speed");
+        embed.addField("#" + index + " " + meme.name + " (Level " + meme.level + ", " + meme.xp + "/100 xp)", meme.health + "/" + meme.maxhealth + " hp, " + meme.attacc + " attacc, " + meme.protecc + " protecc, " + meme.speed + " speed");
         index++;
     });
 

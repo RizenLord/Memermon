@@ -21,6 +21,7 @@ module.exports.execute = function(message, args, client, save)
         message.reply("I bestow upon you your first meme... ***No U***.");
         var meme = tools.getmeme("No U");
         meme.maxhealth = meme.health;
+        meme.level = 1;
         meme.xp = 0;
         player.memes.push(meme);
     }
