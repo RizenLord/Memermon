@@ -15,3 +15,9 @@ Memes are composed of a single JSON object, like so:
 }
 ```
 If you wish to add a meme, create an issue with a JSON like the one above!
+
+### Todo
+- Wild encounters
+- Items
+- Battles
+- More memes!!
