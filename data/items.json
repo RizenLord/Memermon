@@ -1,0 +1,12 @@
+{
+    "items":
+    [
+        {
+            "name": "Dan Aykroyd's Crystal Skull Vodka",
+            "healthboost": 25,
+            "proteccboost": 25,
+            "attaccboost": 25,
+            "speedboost": 25
+        }
+    ]
+}
