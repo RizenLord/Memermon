@@ -49,11 +49,11 @@
             "protecc": 10,
             "attacc": 50,
             "speed": 30,
-            "devolves_into": "Vibe Check"
+            "devolves_into": "Momentus Bruh"
         },
         {
-            "name": "Vibe Check",
-            "image": "https://pbs.twimg.com/profile_images/1162710956218245120/L4b1guuv.jpg",
+            "name": "Momentus Bruh",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmemes%2Fcomments%2Fbbgq58%2Fbruh_momentus%2F&psig=AOvVaw0PUdGs1kojvCWlX0S0D5yH&ust=1574534242576000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDDkaq7_uUCFQAAAAAdAAAAABAJ",
             "health": 200,
             "protecc": 30,
             "attacc": 65,

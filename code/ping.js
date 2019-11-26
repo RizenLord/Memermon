@@ -4,5 +4,5 @@ module.exports.requiresjoin = false;
 
 module.exports.execute = function(message, args, client, save)
 {
-    message.reply("pong!");
+    message.channel.send(new Date().getTime() - message.createdTimestamp + " ms");        
 }
