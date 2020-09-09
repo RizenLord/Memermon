@@ -18,6 +18,7 @@ commands.push(require("./code/ping.js"));
 commands.push(require("./code/save.js"));
 commands.push(require("./code/join.js"));
 commands.push(require("./code/memes.js"));
+commands.push(require("./code/catch.js"));
 
 // On ready.
 client.once('ready', () =>
