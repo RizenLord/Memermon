@@ -34,7 +34,7 @@ module.exports.execute = function(message, args, client, save)
 
   var roll = getRandomInt(20);
 
-  if (roll >= 1) {
+  if (roll >= 5) {
       message.channel.send("Congrats! You Caught a " + meme2 + " with a Roll of " + roll);
 
       player.memes.push(meme2);

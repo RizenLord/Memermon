@@ -1,4 +1,5 @@
 const memes = require("../data/memes.json");
+const items = require("../data/items.json");
 
 module.exports.getplayer = function(message, save)
 {
@@ -29,4 +30,16 @@ module.exports.getmeme = function(name)
         }
     });
     return thememe;
+}
+module.exports.getitem = function(name)
+{
+    var theitem = {};
+    items.items.forEach(item =>
+    {
+        if (item.name === name)
+        {
+            theitem = Object.assign({}, item);
+        }
+    });
+    return theitem;
 }
