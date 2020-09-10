@@ -1,4 +1,4 @@
-const discord = require("discord.js");
+const Discord = require("discord.js");
 const tools = require("./tools.js");
 const memes = require("../data/memes.json");
 const join = require("./join.js")
@@ -34,7 +34,7 @@ module.exports.execute = function(message, args, client, save)
 
   var roll = getRandomInt(20);
 
-  if (roll >= 5) {
+  if (roll >= 15) {
       message.channel.send("Congrats! You Caught a " + meme2 + " with a Roll of " + roll);
 
       player.memes.push(meme2);

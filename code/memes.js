@@ -1,4 +1,4 @@
-const discord = require("discord.js");
+const Discord = require("discord.js");
 const tools = require("./tools.js");
 
 module.exports.name = "memes";
@@ -7,7 +7,7 @@ module.exports.requiresjoin = true;
 
 module.exports.execute = function(message, args, client, save)
 {
-    var embed = new discord.RichEmbed();
+    var embed = new Discord.RichEmbed();
     embed.setAuthor(message.author.username + "'s Memes!", message.author.avatarURL);
 
     var index = 1;
